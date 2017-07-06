@@ -1,2 +1,0 @@
-this is a b3.txt
-the commit from issue2.
